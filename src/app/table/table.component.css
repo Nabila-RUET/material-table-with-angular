@@ -1,0 +1,28 @@
+.buttons{
+    margin: 10px 10px 10px 10px;
+  }
+  
+  .mat-radio-button ~ .mat-radio-button {
+    margin-left: 16px;
+  }
+
+  .example-margin {
+    margin: 0 10px;
+    font-weight: bold;
+    color: blue;
+  }
+
+  .container{
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+
+
+div ~span{
+    margin: 10px 10px 10px 10px;
+} 
+
+table {
+    width: 50%;
+  }
+  
